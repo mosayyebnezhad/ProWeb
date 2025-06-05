@@ -37,8 +37,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "mohammadhas-proweb-61"
-          entrypoint: "jsr:@deno/nextjs-start"
+          project: "mohammadhas-proweb-79"
+          entrypoint: "jsr:@deno/nextjs-start/v15"
           root: "."
           include: .next, public
           
