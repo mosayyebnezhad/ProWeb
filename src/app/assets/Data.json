@@ -40,15 +40,17 @@
         {
             "sideName": "Front-end developer",
             "skills": [
+                "typescript",
                 "react",
                 "next",
-                "typescript",
+                "Angular",
                 "tailwindcss"
             ]
         },
         {
             "sideName": "back-end developer",
             "skills": [
+                "Go",
                 "express",
                 "mongoDB",
                 "mongoose"
