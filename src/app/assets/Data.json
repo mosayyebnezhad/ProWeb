@@ -6,7 +6,7 @@
         "description": "🚀 Software Engineer",
         "longdescription": "I'm Mohammad Hasan, a passionate software developer with a deep interest in programming and technology. From a young age, I was drawn to the world of coding and IT, and over the years, I have honed my skills in various fields such as web development, application design, and modern software solutions.I specialize in programming languages like JavaScript, Node.js, and have experience working with frameworks like Next.js. My goal is to continuously grow as a developer, always learning new technologies and improving my craft to deliver high-quality, efficient software solutions.",
         "location": "Gilan, iran",
-        "imageLink": "https://mosayyebnezhad.github.io/personalData/images/main.png",
+        "imageLink": "https://mosayyebnezhadstatics.storage.iran.liara.space/aaaaaa-min.png",
         "links": [
             {
                 "title": "github",
@@ -15,10 +15,6 @@
             {
                 "title": "linkedin",
                 "link": "https://www.linkedin.com/in/mosayyebnezhad/"
-            },
-            {
-                "title": "figma Cummunity",
-                "link": "https://www.figma.com/@mosayyebnezhad/"
             },
             {
                 "title": "X",
@@ -92,7 +88,7 @@
             "Image": "https://repository-images.githubusercontent.com/833374287/5387f4c1-fe81-47e5-9a06-ad2839d690ec",
             "Date": {
                 "from": "2020",
-                "to": "PRESENT"
+                "to": "2021"
             },
             "shortdescryiption": "online resturant Website",
             "description": "The API was created using Express technology, with MongoDB and the Mongoose package. It is available on GitHub and has been launched using the powerful PaaS platform Vercel",
